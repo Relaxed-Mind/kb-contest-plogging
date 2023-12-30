@@ -31,7 +31,7 @@ https://www.youtube.com/watch?v=pA0kIA1dKKI
 
 (2) 사용자가 쓰레기통 등록 가능
 
-(3) 플로깅 종료 화면 <-> 인스타그램 스토리 연동
+(3) 플로깅 종료 화면 <-> 인스타그램 스토리 연동 <br/>
 <img width = "300" src="./img/ploggingInstagram.png">
 
 ### 3. 커뮤니티
